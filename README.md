@@ -1,1 +1,5 @@
 # iskomsai
+
+Collaborators:
+    A
+    B
