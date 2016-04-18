@@ -10,6 +10,8 @@ Faculty Module:
     Rosheil Parel
 Student Module:
 
+		Charles Francis S. Aposaga
+
 Alumni Module:
 
     Anfernee Sodusta
